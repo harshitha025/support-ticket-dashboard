@@ -56,7 +56,7 @@ git clone https://github.com/harshitha025/support-ticket-dashboard.git
 ```
 
 ```
-cd aurexillion-support-ticket-dashboard
+cd support-ticket-dashboard
 ```
 
 ---
