@@ -38,7 +38,7 @@ A full-stack Support Ticket Dashboard built as part of the Aurexillion Full-Stac
 # Project Structure
 
 ```
-aurexillion-support-ticket-dashboard
+support-ticket-dashboard
 │
 ├── frontend
 ├── backend
