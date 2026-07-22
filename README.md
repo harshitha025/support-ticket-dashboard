@@ -52,7 +52,7 @@ aurexillion-support-ticket-dashboard
 ## Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/harshitha025/support-ticket-dashboard.git
 ```
 
 ```
